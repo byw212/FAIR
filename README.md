@@ -11,6 +11,11 @@ Refinement for Enhanced Generalized Category Discovery </h1>
   <img src="assets/overview.png" alt="result" width="60%" align="right"/>
 </p> -->
 
+## Farmework
+<div align="center">
+  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/byw212/FAIR/blob/main/framework.png)">
+</div>
+
 ## Environmnet installation
 This project is built upon the following environment:
 * [Python 3.7](https://pytorch.org)
