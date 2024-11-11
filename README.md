@@ -13,7 +13,7 @@ Refinement for Enhanced Generalized Category Discovery </h1>
 
 ## Farmework
 <div align="center">
-  <img src="[https://github.com/******/dbscan_clustering_algorithm/blob/master/data/DBSCAN.png](https://github.com/byw212/FAIR/blob/main/framework.png)">
+  <img src="https://github.com/byw212/FAIR/blob/main/framework.png">
 </div>
 
 ## Environmnet installation
