@@ -13,7 +13,7 @@ Refinement for Generalized Category Discovery </h1>
 
 ## Farmework
 <div align="center">
-  <img src="https://github.com/byw212/FAIR/blob/main/framework.png">
+  <img src="https://github.com/byw212/FAIR/blob/main/framework-V4.png">
 </div>
 
 ## Environmnet installation
