@@ -1,10 +1,10 @@
 <div align="center">
   <h1> FAIR: Foundation-Adaptive Integrated
-Refinement for Enhanced Generalized Category Discovery </h1>
+Refinement for Generalized Category Discovery </h1>
 </div>
 
 <div align="center">
-  <h3>Paper ID 5421 </h3>
+  <h3>Paper ID 10200 </h3>
 </div>
 
 <!-- <p align="center">
